@@ -1,0 +1,34 @@
+
+    une liste à puces
+    
+*
+*
+*
+*
+    
+    une liste numérotée
+    
+1.
+2.
+3.
+
+    3 niveaux de titres et sous-titres
+    
+# 
+##
+###
+#### 
+
+    des liens
+    
+Texte quelconque [texte à cliqué pour se rendre sur le lien](L'url du lien)
+
+    insertion d’une image statique
+    
+![Alt="Zozor"](lien de l'image.png)    
+    
+    insertion d’une image animée
+    
+![Alt="Zozor"](lien de l'image.gif)
+
+    UX: que l’information transmise / l’histoire racontée soit intéressante, pertinente, correcte et originale (dans le sens “personnel”, pas un copier-coller).
